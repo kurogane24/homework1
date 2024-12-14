@@ -1,0 +1,17 @@
+body {
+font-family:"Lucida Console", "Courier New", monospace;
+font-size:100px;
+}
+
+header {
+  background-color:yellow;
+}
+
+nav {
+background-color:silver;
+}
+
+main {
+  background-color:black;
+  font-size:100px;
+}
