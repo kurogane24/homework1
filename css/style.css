@@ -10,3 +10,8 @@ header {
 nav {
 background-color:silver;
 }
+
+main {
+  background-color:black;
+  font-size:100px;
+}
